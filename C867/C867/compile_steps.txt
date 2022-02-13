@@ -1,0 +1,3 @@
+run in the directory with cpp & h files
+
+g++ *.cpp -o output
